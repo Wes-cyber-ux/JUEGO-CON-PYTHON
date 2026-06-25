@@ -1,15 +1,15 @@
+import tablero as tb
+import historial as hi
+import solver as sl
 
-#mi primer colaboracion de wesley
-print("HOLA perrras")
+def jugar(nombre):
+    # Lógica principal del juego manual
+    pass
 
-#mi primera colaboracion de yeriel
-print("Holaaaa")
+def menu():
+    print("===== DESATASCA EL AUTO =====")
+    # Aquí irá el input y los if/elif para llamar a las funciones
+    pass
 
-
-
-#Joaquin cabro de mierda , jeriel pedófilo y wesley cacha negras
-
-print("Wesley kbrito")
-
-
-
+if __name__ == "__main__":
+    menu()
